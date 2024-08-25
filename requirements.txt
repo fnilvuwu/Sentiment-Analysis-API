@@ -1,6 +1,7 @@
 textblob
 fastapi
 Flask
+matplotlib
 numpy
 scipy
 uvicorn
