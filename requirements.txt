@@ -2,4 +2,5 @@ textblob
 fastapi
 Flask
 numpy
+scipy
 uvicorn
