@@ -1,7 +1,6 @@
-textblob
 fastapi
-Flask
+uvicorn
 matplotlib
 numpy
+python-multipart
 scipy
-uvicorn
